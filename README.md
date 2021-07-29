@@ -12,7 +12,7 @@
 <div>
 	<a href="https://beacons.ai/1tassianak">
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=1tassianak&show_icons=true&theme=dracula" alt="1tassianak" />
-	<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=1tassianak&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="1tassianak" />
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=1tassianak&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="1tassianak" />
 </div>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">

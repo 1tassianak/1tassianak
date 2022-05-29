@@ -12,7 +12,7 @@
 
 <div>
 <a href="https://github.com/1tassianak">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1tassianak&layout=compact&langs_count=7&theme=dracula" alt="1tassianak"/>
+<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1tassianak&layout=compact&langs_count=7&theme=dracula" alt="1tassianak"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1tassianak&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="1tassianak"/>
 </div>
 

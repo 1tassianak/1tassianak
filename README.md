@@ -16,7 +16,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1tassianak&layout=compact&theme=dracula" alt="1tassianak"/>
 </div>
 
-![snake gif](https://github.com/1tassianak/app_validade/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/1tassianak/1tassianak/blob/output/github-contribution-grid-snake.svg)
 	
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">

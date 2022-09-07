@@ -44,12 +44,6 @@
 	<a href="https://www.mysql.com/" target="_blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 	</a>
-	<a href="https://www.photoshop.com/en" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-	</a>
-	<a href="https://www.adobe.com/products/xd.html" target="_blank">
-		<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
-	</a>
 		<a href="https://godotengine.org" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" alt="godotengine" width="40" height="40"/>
 	</a>
@@ -57,5 +51,13 @@
 		<a href="https://www.java.com" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" width="70" height="40"/>
 	</a>
-	
+	<a href="https://www.photoshop.com/en" target="_blank">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+	</a>
+	<a href="https://www.adobe.com/products/xd.html" target="_blank">
+		<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
+	</a>
+	<a href="https://www.adobe.com/products/dreamweaver.html" target="_blank">
+		<img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/adobe-dreamweaver.svg" alt="Dreamweaver" width="40" height="40"/>
+	</a>
 </p>

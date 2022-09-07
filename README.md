@@ -17,6 +17,7 @@
 </div>
 
 ![Snake animation](https://github.com/1tassianak/1tassianak/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/1tassianak/1tassianak/blob/output/github-contribution-grid-snake.svg)
 	
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">

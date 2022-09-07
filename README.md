@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1tassianak&label=Profile%20views&color=b60e55&style=flat" alt="1tassianak" /> </p>
 
 
-- 🔭 Sou **profe**
+- 🔭 Sou **profe** =)
 - 🌱 Atualmente estou estudando **de tudo um pouco na área da tecnologia <img align="center" src="https://media.giphy.com/media/YpTSRFbHGuRfy1goOb/giphy.gif" width="40" height="40" />, principalmente desenvolvimento de jogos e mobile**
 
 ##

@@ -50,7 +50,16 @@
 	<a href="https://www.adobe.com/products/xd.html" target="_blank">
 		<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
 	</a>
-		<a href="https://unity.com/" target="_blank">
+		<a href="https://godotengine.org" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" alt="godotengine" width="40" height="40"/>
 	</a>
+	</a>
+		<a href="https://godotengine.org" target="_blank">
+		<img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" alt="godotengine" width="40" height="40"/>
+	</a>
+	</a>
+		<a href="https://www.java.com" target="_blank">
+		<img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" width="40" height="40"/>
+	</a>
+	
 </p>

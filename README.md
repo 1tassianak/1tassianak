@@ -51,16 +51,13 @@
 		<a href="https://godotengine.org" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" alt="godotengine" width="40" height="40"/>
 	</a>
-	</a>
-		<a href="https://www.java.com" target="_blank">
+	<a href="https://www.java.com" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" width="70" height="40"/>
 	</a>
-	</a>
-		<a href="https://br.wordpress.org" target="_blank">
+	<a href="https://br.wordpress.org" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg" alt="wordpress" width="40" height="40"/>
 	</a>
-	</a>
-		<a href="https://www.joomla.org" target="_blank">
+	<a href="https://www.joomla.org" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/joomla/joomla-icon.svg" alt="joomla" width="40" height="40"/>
 	</a>
 	<a href="https://www.photoshop.com/en" target="_blank">

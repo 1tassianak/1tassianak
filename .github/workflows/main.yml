@@ -12,6 +12,10 @@ jobs:
     steps:
       # Snake Animation
       #- uses: Sutil/snk@master
+      - name: Set up Node.js 16
+        uses: actions/setup-node@v2
+        with:
+          node-version: 16
       - uses: Platane/snk@master
         id: snake-gif
         with:

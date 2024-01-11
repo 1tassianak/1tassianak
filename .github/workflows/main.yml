@@ -9,6 +9,8 @@ jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
+    environment: 
+      name: Snake
     steps:
       # Snake Animation
       #- uses: Sutil/snk@master

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/toXVaV7L58LKD0dtWB/giphy.gif" width="200" height="200" />
+
 </div>
 <h1 align="center">Olá 👋, Sou a Tassiana!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1tassianak&label=Profile%20views&color=b60e55&style=flat" alt="1tassianak" /> </p>

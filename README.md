@@ -4,17 +4,17 @@
 <h1 align="center">Olá 👋, Sou a Tassiana!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1tassianak&label=Profile%20views&color=b60e55&style=flat" alt="1tassianak" /> </p>
 
-
 - 🔭 Sou **profe** =)
 - 🌱 Atualmente estou estudando **de tudo um pouco na área da tecnologia <img align="center" src="https://media.giphy.com/media/YpTSRFbHGuRfy1goOb/giphy.gif" width="40" height="40" />, principalmente desenvolvimento de jogos e mobile**
 
 ##
 
-<div>
-<a href="https://github.com/1tassianak">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=1tassianak&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="1tassianak"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1tassianak&layout=compact&theme=dracula" alt="1tassianak"/>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1tassianak&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="1tassianak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1tassianak&layout=compact&theme=dracula" alt="1tassianak"/>
 </div>
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1tassianak/1tassianak/output/github-contribution-grid-snake-dark.svg">

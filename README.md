@@ -17,9 +17,9 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1tassianak/1tassianak/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1tassianak/1tassianak/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/1tassianak/1tassianak/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1tassianak/1tassianak/output/github-contribution-grid-snake2.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1tassianak/1tassianak/output/github-contribution-grid-snake2.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/1tassianak/1tassianak/output/github-contribution-grid-snake2.svg">
 </picture>
 	
 <h3 align="left">Languages and Tools:</h3>
